@@ -1,0 +1,21 @@
+/* css styles list */
+
+.base {
+  background-color: pink;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#u_1 {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+.larger {
+  font-size: 24px;
+}
+
+#u_2 {
+  background-color: #90ee90;
+  font-size: 24px;
+  font-weight: 700;
+}
